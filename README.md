@@ -46,3 +46,7 @@ So, let's see the Laravel 11 CRUD operation example and the CRUD application in 
 - Creating View Blade File
 
 8. Run the Laravel 11 App
+
+---
+
+### **[Read More: How to Create CRUD Operation in Laravel 11](https://techsolutionstuff.com/post/how-to-create-crud-operation-in-laravel-11)**
